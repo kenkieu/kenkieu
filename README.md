@@ -1,6 +1,6 @@
-![image](https://github.com/kenkieu/kenkieu/blob/main/images/banner.jpeg "Palomar State")
+![Palomar State Park](https://github.com/kenkieu/kenkieu/blob/main/images/banner.jpeg "Palomar State Park")
 
-Hello There! :wave:
+Hi There! :wave:
 ------
 
 ### GitHub Stats
