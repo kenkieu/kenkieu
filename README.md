@@ -8,7 +8,7 @@ Hello There!
 :speech_balloon: About Me
 ------
 
-I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a diverse creative outlet that allows me to bring my ideas to life. My favorite part of a new project is it allows me to work with new technologies, thus expanding my knowledge base.
+I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a diverse creative outlet that allows me to bring my ideas to life. I love taking on new projects because it allows me to work with new technologies, thus expanding my knowledge base.
 
 :computer: Technical Skills
 ------
@@ -23,8 +23,6 @@ I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a dive
 - Materialize CSS
 - Webpack
 - Babel
-
-
 
 :incoming_envelope: Let's Connect
 ------
