@@ -1,17 +1,32 @@
 ![Palomar State Park](https://github.com/kenkieu/kenkieu/blob/main/images/banner.jpeg "Palomar State Park")
 
-Hi There! :wave:
+Hello There!
+------
+[![kenkieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkieu&theme=vue&show_icons=true&hide=stars,contribs)](https://github.com/kenkieu/github-readme-stats)
+
+
+:speech_balloon: About Me
 ------
 
-### GitHub Stats
-[![kenkieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkieu&hide=stars,contribs)](https://github.com/kenkieu/github-readme-stats)
+I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a diverse creative outlet that allows me to bring my ideas to life. My favorite part of a new project is it allows me to work with new technologies, thus expanding my knowledge base.
 
-
-About Me
+:computer: Technical Skills
 ------
 
-Skills
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- PostgreSQL
+- Express.js
+- Materialize CSS
+- Webpack
+- Babel
+
+
+
+:incoming_envelope: Let's Connect
 ------
 
-Links
-------
+- [LinkedIn](https://www.linkedin.com/in/ken-kieu/ "LinkedIn")
