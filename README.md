@@ -20,6 +20,7 @@ I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a dive
 - Node.js
 - PostgreSQL
 - Express.js
+- Tailwind CSS
 - Materialize CSS
 - Webpack
 - Babel
