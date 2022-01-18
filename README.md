@@ -29,3 +29,4 @@ I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a dive
 ------
 
 - [LinkedIn](https://www.linkedin.com/in/ken-kieu/ "LinkedIn")
+- [Portfolio](https://kenkieu.link/ "Portfolio")
