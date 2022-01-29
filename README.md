@@ -14,10 +14,13 @@ I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a dive
 
 - HTML5
 - CSS3
+- SCSS
 - JavaScript
 - React.js
+- Next.js
 - Node.js
 - PostgreSQL
+- SQL
 - Express.js
 - Tailwind CSS
 - Materialize CSS
