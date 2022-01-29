@@ -2,7 +2,7 @@
 
 Hello There!
 ------
-![kenkieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkieu&theme=dark&show_icons=true&hide=stars,contribs)
+![kenkieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkieu&theme=vue-dark&show_icons=true&hide=stars,contribs)
 
 :speech_balloon: About Me
 ------
