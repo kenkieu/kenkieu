@@ -26,6 +26,7 @@ I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a dive
 - Materialize CSS
 - Webpack
 - Babel
+- Python
 
 :incoming_envelope: Let's Connect
 ------
