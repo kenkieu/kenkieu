@@ -12,6 +12,8 @@ I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a dive
 :computer: Technical Skills
 ------
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 - HTML5
 - CSS3
 - SCSS
@@ -22,6 +24,7 @@ I'm Ken, a traveler, tech enthusiast, and web developer! To me, coding is a dive
 - PostgreSQL
 - SQL
 - Express.js
+- Bootstrap 5
 - Tailwind CSS
 - Materialize CSS
 - Webpack
