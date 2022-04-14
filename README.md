@@ -2,7 +2,6 @@
 
 Hello There!
 ------
-![kenkieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenkieu&theme=vue-dark&show_icons=true&hide=stars,contribs)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenkieu&theme=gotham)](https://git.io/streak-stats)
 
